@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #0077b6;
+  background: linear-gradient(135deg, rgb(17, 17, 133), rgb(111, 111, 192));
   text-align: left;
 }
 
